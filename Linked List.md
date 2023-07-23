@@ -3,6 +3,7 @@
    1. Access
       
       1. Array O(1) - better
+      
       2. Linked List: O(n)
    
    2. Insert/Delete at beginning
